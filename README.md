@@ -10,7 +10,7 @@ Discord Nitro sniper and Giveaway joiner in Go.
 - Snipe Nitro gifts
 - on winning a nitro giveaway send a customizable message to the host
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ### Instalation
 
