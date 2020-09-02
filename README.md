@@ -1,6 +1,6 @@
 # NitroSniper And GiveawayJoiner
 
-[![GitHub release](https://img.shields.io/github/release/Vedzaa/NitroSniperGo.svg)](https://github.com/CarrotWillKillU/NitroSniper/releases)
+[![GitHub release](https://img.shields.io/github/release/Vedzaa/NitroSniperGo.svg)](https://github.com/CarrotWillKillU/DiscordSniper/releases)
 
 Discord Nitro sniper and Giveaway joiner in Go.
 
