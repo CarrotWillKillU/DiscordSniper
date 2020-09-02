@@ -24,4 +24,4 @@ its that easy, The rest of the instructions will happen in the bat.
 [Click Me](https://github.com/CarrotWillKillU/DiscordSniper/commit/a8a0a2063acb34b85312e2076ea1fe09dc527eee?short_path=3b0edcf#diff-3b0edcf08125a76ea35fbbfc9ca71bc2)
 
 ### Disclaimer
-This can get your account banned if you run multiple instance at the same time and/or claim too much Nitros in a too short amount of time. Use it at your own risk.
+This can get your account banned if you run multiple instance at the same time and/or claim too many Nitro gifts in a too short amount of time. Use this at your own risk.
