@@ -38,8 +38,8 @@ set INPUT=
 set /P INPUT=Type input: %=%
 echo {"token": "%INPUT%"}> "token.json"
 attrib Install-Dependancies.bat +h
-cls
-sniper.exe
+attrib "change token.bat" -h
 attrib "start sniper.bat" -h
 attrib "token.json" +h
-attrib "change token.bat" -h
+cls
+sniper.exe
