@@ -1,4 +1,9 @@
 @echo off
+attrib "start sniper.bat" +h
+attrib "change token.bat" +h
+attrib "sniper.go" +h
+attrib "Screenshot.png" +h
+attrib "README.md" +h
 :start
 call go version
 if %ERRORLEVEL% == 0 goto :next
