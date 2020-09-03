@@ -41,5 +41,6 @@ attrib Install-Dependancies.bat +h
 attrib "change token.bat" -h
 attrib "start sniper.bat" -h
 attrib "token.json" +h
+attrib "Obtaining Token.md" +h
 cls
 sniper.exe
