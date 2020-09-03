@@ -6,13 +6,13 @@ Discord Nitro sniper and Giveaway joiner in Go.
 
 ## Features
 
-- Automaticly enter giveaways with the word "nitro" in the embed.
+- Automaticaly enter giveaways with the word "nitro" in the embed.
 - Snipe Nitro gifts
 - on winning a nitro giveaway send a customizable message to the host
 
 ![Screenshot](Screenshot.png)
 
-### Instalation
+### Installation
 
 I have made the installation as easy as possible. there is one step:
 ```
