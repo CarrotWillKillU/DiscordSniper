@@ -21,7 +21,7 @@ Run Install-Dependancies.bat
 its that easy, The rest of the instructions will happen in the bat.
  
 ### How to obtain your token
-[https://i.imgur.com/27WvO1N.png](https://github.com/CarrotWillKillU/DiscordSniper/wiki/Obtaining-Token)
+[![Screenshot](https://i.imgur.com/27WvO1N.png)](https://github.com/CarrotWillKillU/DiscordSniper/wiki/Obtaining-Token)
 
 ### Disclaimer
 This can get your account banned if you run multiple instance at the same time and/or claim too many Nitro gifts in a too short amount of time. Use this at your own risk.
