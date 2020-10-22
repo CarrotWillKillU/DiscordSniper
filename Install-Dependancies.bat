@@ -6,12 +6,21 @@ attrib "Screenshot.png" +h
 attrib "README.md" +h
 :start
 call go version
-if %ERRORLEVEL% == 0 goto :next
+if %ERRORLEVEL% == 0 goto :gittest
 cls
 COLOR 0C
 echo You must have go installed, Paused with status: %errorlevel%
-start https://golang.org/dl/go1.15.1.windows-amd64.msi
+start https://golang.org/dl
 goto :endofscript
+
+:gittest
+call git version
+if %ERRORLEVEL% == 0 goto :next
+cls
+COLOR 0C
+echo You must have git installed, Paused with status: %errorlevel%
+start https://git-scm.com/download/win
+goto :endofscript1
 
 :next
  COLOR 0A
@@ -20,9 +29,18 @@ goto :endofscript
  go get github.com/fatih/color
  go get github.com/valyala/fasthttp
  go build sniper.go
+ timeout 3 >nul
  goto :final
 
 :endofscript
+COLOR 0C
+echo click any key after u have installed go
+pause
+cls
+goto :start
+
+
+:endofscript1
 COLOR 0C
 echo click any key after u have installed go
 pause
